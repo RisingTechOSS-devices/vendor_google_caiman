@@ -499,6 +499,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleFUSIONPro \
     OemDmTrigger \
     PixelCameraServices \
+    SCONE-v37764 \
     TetheringEntitlement \
     WfcActivation \
     OemRilHookService \
@@ -513,6 +514,7 @@ PRODUCT_PACKAGES += \
     PixelImsMediaService \
     PixelQualifiedNetworksService \
     RilConfigService \
+    SettingsGoogleFutureFaceEnroll \
     ShannonIms \
     ShannonRcs \
     grilservice \
